@@ -102,6 +102,12 @@
     "<extra_id_99>"
   ],
   "eos_token": "</s>",
+  "extra_ids": 100,
+  "model_max_length": 512,
+  "name_or_path": "google/t5-v1_1-large",
   "pad_token": "<pad>",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": "/home/younes_huggingface_co/.cache/huggingface/hub/models--google--t5-v1_1-large/snapshots/314bc112b191ec17b625ba81438dc73d6c23659d/special_tokens_map.json",
+  "tokenizer_class": "T5Tokenizer",
   "unk_token": "<unk>"
 }
